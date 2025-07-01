@@ -22,7 +22,7 @@ This project was created as part of the **Advanced Programming in Python (APP)**
 | File Name           | Purpose                                      |
 |---------------------|----------------------------------------------|
 | `speed_typing.py`   | Main Python GUI application                  |
-| `sample-output.png` | Screenshot of output/result (optional)       |
+| `sample-output.png` | Screenshot of output/result       |
 | `.gitignore`        | Ignores Python cache files and system files  |
 | `README.md`         | Documentation and usage guide (this file)    |
 
