@@ -45,17 +45,8 @@ Ensure you have Python installed. You can check with:
 ```bash
 python --version
 
-## 🚀 Steps to Run:
-
-bash
-Copy
-Edit
 git clone https://github.com/your-username/Speed-Typing-Calculator.git
 cd Speed-Typing-Calculator
 python speed_typing.py
 
-👨‍💻 Developed By
-Venkat Aditya Vellanki
-SRM Institute of Science and Technology
-Advanced Programming in Python (APP) mini project
 
