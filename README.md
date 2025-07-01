@@ -25,7 +25,7 @@ Developed as part of the **Advanced Programming in Python (APP)** course at SRM 
 | File Name            | Purpose                                 |
 |----------------------|------------------------------------------|
 | `speed_typing.py`    | Main Python GUI code                    |
-| `sample-output.png`  | Screenshot of the application (optional)|
+| `sample-output.png`  | Screenshot of the application |
 | `.gitignore`         | Auto-excludes unnecessary Python files  |
 | `README.md`          | Project overview and usage instructions |
 
