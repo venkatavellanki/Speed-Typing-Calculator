@@ -1,52 +1,48 @@
-# Speed-Typing-Calculator
-A GUI-based typing speed calculator using Python and Tkinter.
-
 # ⌨️ Speed Typing Calculator
 
-This is a GUI-based speed typing calculator written in Python using the Tkinter library.  
-Developed as part of the **Advanced Programming in Python (APP)** course at SRM Institute of Science and Technology.
+A GUI-based speed typing calculator developed using Python's Tkinter library.  
+This project was created as part of the **Advanced Programming in Python (APP)** course at SRM Institute of Science and Technology.
 
 ---
 
 ## 💡 Features
 
-- Typing prompt with random sentences
-- Calculates:
-  - Typing Speed (Words per Minute)
+- ✅ Random typing prompt from predefined sentences
+- ✅ Calculates:
+  - Typing Speed (Words Per Minute)
+  - Time Taken (in seconds)
   - Accuracy (%)
-  - Time Taken (seconds)
-- Clean GUI using `Tkinter`
-- Real-time timer starts on typing
+- ✅ Simple and clean user interface using Tkinter
+- ✅ Real-time timer that starts when you begin typing
 
 ---
 
-## 📂 Project Files
+## 📂 Project Structure
 
-| File Name            | Purpose                                 |
-|----------------------|------------------------------------------|
-| `speed_typing.py`    | Main Python GUI code                    |
-| `sample-output.png`  | Screenshot of the application |
-| `.gitignore`         | Auto-excludes unnecessary Python files  |
-| `README.md`          | Project overview and usage instructions |
+| File Name           | Purpose                                      |
+|---------------------|----------------------------------------------|
+| `speed_typing.py`   | Main Python GUI application                  |
+| `sample-output.png` | Screenshot of output/result (optional)       |
+| `.gitignore`        | Ignores Python cache files and system files  |
+| `README.md`         | Documentation and usage guide (this file)    |
 
 ---
 
 ## 🛠 Technologies Used
 
 - **Language:** Python 3.x
-- **Libraries:** `tkinter`, `time`, `random`
+- **Libraries:**  
+  - `tkinter` – for GUI  
+  - `time` – to calculate typing duration  
+  - `random` – to choose random prompts
 
 ---
 
-## 🧪 How to Run This Project
+## 🚀 How to Run This Project
 
-### 🔧 Prerequisites:
-Ensure you have Python installed. You can check with:
+### 🔧 Prerequisites
+
+Make sure Python is installed:
+
 ```bash
-python --version
-
-git clone https://github.com/your-username/Speed-Typing-Calculator.git
-cd Speed-Typing-Calculator
-python speed_typing.py
-
-
+python3 --version
